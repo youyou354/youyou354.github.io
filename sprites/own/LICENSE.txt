@@ -1,0 +1,7 @@
+Everything in this folder is drawn for this site by tools/make_wildlife.py (no third-party art),
+except that apple-tree.png / orange-tree.png start from the Bloomseed tree (see ../bloomseed/LICENSE.txt)
+and add the fruit.
+  deer, doe, rabbit, rabbit-white, rabbit-baby, fox - the wildlife
+  barn - the red barn (doors open / shut)
+  items - bag icons (carrot, wheat, apple, orange, milk, fish, heart)
+  mushrooms - the forest's mushrooms

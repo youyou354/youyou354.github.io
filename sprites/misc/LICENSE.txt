@@ -1,0 +1,9 @@
+coop.png      - Sprout Lands Basic pack by Cup Nooble. Non-commercial use, credit required.
+cat.png, cat-grey.png - "Cat 50+ Animations" (itch.io, downloaded by Youssef; the grey one is a recolour) - licence to confirm.
+scrolls.png   - painted hanging scrolls from the "16x16 Fantasy Platformer Pack" (itch.io,
+                downloaded by Youssef) - licence to confirm.
+beehive.png, bench.png, bridge.png - drawn for this site (tools/import_assets.py), Bloomseed palette.
+crops.png     - carrots: Little Dreamyland free pack by Starmixu & Utaskuas (non-commercial, credit required,
+                no redistribution of the pack); wheat: Sprout Lands Basic pack by Cup Nooble (as the coop).
+fishing.png   - "fishing_free" pack (itch.io): non-commercial projects only, no redistribution.
+(This portfolio is non-commercial; if that ever changes, these three need replacing or licensing.)

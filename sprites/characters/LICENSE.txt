@@ -1,0 +1,24 @@
+char-a-blocky.png
+==================
+
+Source model: "Blocky Characters" (2.0) by Kenney (www.kenney.nl)
+  https://kenney.nl/assets/blocky-characters
+  License: Creative Commons Zero (CC0) — public domain.
+  You can use this content for personal, educational, and commercial
+  purposes. Crediting Kenney / www.kenney.nl is appreciated but not
+  required.
+
+This file is NOT the original asset — it is a derived, pre-rendered
+4-direction x 4-frame walk-cycle sprite sheet (character-a.glb, "walk"
+animation clip), produced for this project by:
+  1. Loading the original CC0 glTF model into a small three.js page
+     (orthographic camera, ~18° elevation) — see D:\dev\devtools\char-render\
+  2. Rendering 4 headings (down/up/left/right) x 4 walk-cycle frames via
+     puppeteer + a headless Chromium/Edge, screenshotting each with a
+     transparent background.
+  3. Tiling the 16 frames into one sheet with Pillow (build_sheet.py).
+
+Sheet layout: 512x512px, 4 columns (walk frames) x 4 rows, 128x128px cells.
+Row order: down, up, left, right (index 0-3). RGBA with alpha transparency.
+
+As a CC0-derived work, this sheet is also free to use for any purpose.

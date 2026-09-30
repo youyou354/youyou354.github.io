@@ -1,0 +1,5 @@
+Pixelized from the "Feudal Japan Complete 2D Mega Props Pack" free sample by
+nacl1234. The sample licence allows use in personal and commercial projects
+and modification, and distribution only as part of a substantially transformed
+end product - these files are downscaled, palette-reduced and re-outlined
+(tools/pixelize_japan.py) and ship only embedded in this website.
