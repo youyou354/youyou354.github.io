@@ -5,3 +5,4 @@ and add the fruit.
   barn - the red barn (doors open / shut)
   items - bag icons (carrot, wheat, apple, orange, milk, fish, heart)
   mushrooms - the forest's mushrooms
+  birds-*, bees, windmill - tools/make_extras.py
