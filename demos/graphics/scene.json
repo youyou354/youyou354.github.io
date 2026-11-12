@@ -1,0 +1,779 @@
+{
+ "cadillac": {
+  "file": "cadillac.bin",
+  "min": [
+   -1.1497,
+   -2.6565,
+   0.0078
+  ],
+  "max": [
+   1.1369,
+   3.4501,
+   1.3616
+  ],
+  "parts": [
+   {
+    "material": "Material__46teppich_m_onetex",
+    "vertices": 81,
+    "offset": 0,
+    "indices": 336,
+    "indexOffset": 1944,
+    "index32": false,
+    "Ka": [
+     0.7569,
+     0.7569,
+     0.7569
+    ],
+    "Kd": [
+     0.7569,
+     0.7569,
+     0.7569
+    ],
+    "Ks": [
+     0.0902,
+     0.0902,
+     0.0902
+    ],
+    "Ns": 10.0,
+    "d": 1.0,
+    "map": "leather03.webp"
+   },
+   {
+    "material": "karosse_m_pbrmetal",
+    "vertices": 3480,
+    "offset": 2616,
+    "indices": 10773,
+    "indexOffset": 86136,
+    "index32": false,
+    "Ka": [
+     0.8431,
+     0.8431,
+     0.8431
+    ],
+    "Kd": [
+     0.8431,
+     0.8431,
+     0.8431
+    ],
+    "Ks": [
+     0.0588,
+     0.0588,
+     0.0588
+    ],
+    "Ns": 0.5,
+    "d": 1.0,
+    "map": "pink.webp"
+   },
+   {
+    "material": "Material_emblem001_m_onetex",
+    "vertices": 25,
+    "offset": 107684,
+    "indices": 96,
+    "indexOffset": 108284,
+    "index32": false,
+    "Ka": [
+     0.7569,
+     0.7569,
+     0.7569
+    ],
+    "Kd": [
+     0.7569,
+     0.7569,
+     0.7569
+    ],
+    "Ks": [
+     0.0902,
+     0.0902,
+     0.0902
+    ],
+    "Ns": 10.0,
+    "d": 1.0,
+    "map": "chevy04.webp"
+   },
+   {
+    "material": "chrom_m_pbrmetal",
+    "vertices": 24313,
+    "offset": 108476,
+    "indices": 59685,
+    "indexOffset": 691988,
+    "index32": false,
+    "Ka": [
+     0.8431,
+     0.8431,
+     0.8431
+    ],
+    "Kd": [
+     0.8431,
+     0.8431,
+     0.8431
+    ],
+    "Ks": [
+     0.0902,
+     0.0902,
+     0.0902
+    ],
+    "Ns": 67.0,
+    "d": 1.0,
+    "map": "brushed-metal01_albedo.webp"
+   },
+   {
+    "material": "Material_schwarzes_leder_m_onetex",
+    "vertices": 1430,
+    "offset": 811360,
+    "indices": 2886,
+    "indexOffset": 845680,
+    "index32": false,
+    "Ka": [
+     0.7569,
+     0.7569,
+     0.7569
+    ],
+    "Kd": [
+     0.7569,
+     0.7569,
+     0.7569
+    ],
+    "Ks": [
+     0.0902,
+     0.0902,
+     0.0902
+    ],
+    "Ns": 10.0,
+    "d": 1.0,
+    "map": "bogey_dust.webp"
+   },
+   {
+    "material": "_caddy_devillegfxs_m_onetex",
+    "vertices": 76,
+    "offset": 851452,
+    "indices": 216,
+    "indexOffset": 853276,
+    "index32": false,
+    "Ka": [
+     0.6667,
+     0.3961,
+     0.0471
+    ],
+    "Kd": [
+     0.6667,
+     0.3961,
+     0.0471
+    ],
+    "Ks": [
+     0.051,
+     0.051,
+     0.051
+    ],
+    "Ns": 46.4386,
+    "d": 1.0,
+    "map": "lampafram.webp"
+   },
+   {
+    "material": "Material_helles_leder_m_onetex",
+    "vertices": 1031,
+    "offset": 853708,
+    "indices": 2676,
+    "indexOffset": 878452,
+    "index32": false,
+    "Ka": [
+     0.7569,
+     0.7569,
+     0.7569
+    ],
+    "Kd": [
+     0.7569,
+     0.7569,
+     0.7569
+    ],
+    "Ks": [
+     0.0902,
+     0.0902,
+     0.0902
+    ],
+    "Ns": 10.0,
+    "d": 1.0,
+    "map": "leather79bhw.webp"
+   },
+   {
+    "material": "material_chrom_m_reflect",
+    "vertices": 58,
+    "offset": 883804,
+    "indices": 186,
+    "indexOffset": 885196,
+    "index32": false,
+    "Ka": [
+     0.8431,
+     0.8431,
+     0.8431
+    ],
+    "Kd": [
+     0.8431,
+     0.8431,
+     0.8431
+    ],
+    "Ks": [
+     0.0902,
+     0.0902,
+     0.0902
+    ],
+    "Ns": 67.0,
+    "d": 1.0,
+    "map": "brushed-metal01.webp"
+   },
+   {
+    "material": "Material__emblem02_m_onetex",
+    "vertices": 15,
+    "offset": 885568,
+    "indices": 30,
+    "indexOffset": 885928,
+    "index32": false,
+    "Ka": [
+     0.7569,
+     0.7569,
+     0.7569
+    ],
+    "Kd": [
+     0.7569,
+     0.7569,
+     0.7569
+    ],
+    "Ks": [
+     0.0902,
+     0.0902,
+     0.0902
+    ],
+    "Ns": 10.0,
+    "d": 1.0,
+    "map": "chevy03.webp"
+   },
+   {
+    "material": "Material__felge_m_onetex",
+    "vertices": 699,
+    "offset": 885988,
+    "indices": 2280,
+    "indexOffset": 902764,
+    "index32": false,
+    "Ka": [
+     0.7569,
+     0.7569,
+     0.7569
+    ],
+    "Kd": [
+     0.7569,
+     0.7569,
+     0.7569
+    ],
+    "Ks": [
+     0.0902,
+     0.0902,
+     0.0902
+    ],
+    "Ns": 10.0,
+    "d": 1.0,
+    "map": "weisswandraifen.webp"
+   },
+   {
+    "material": "Material_lauffl_m_tbumptex",
+    "vertices": 224,
+    "offset": 907324,
+    "indices": 576,
+    "indexOffset": 912700,
+    "index32": false,
+    "Ka": [
+     0.7569,
+     0.7569,
+     0.7569
+    ],
+    "Kd": [
+     0.7569,
+     0.7569,
+     0.7569
+    ],
+    "Ks": [
+     0.0902,
+     0.0902,
+     0.0902
+    ],
+    "Ns": 10.0,
+    "d": 1.0,
+    "map": "tread_tm.webp"
+   },
+   {
+    "material": "Material__94boden_m_onetex",
+    "vertices": 1152,
+    "offset": 913852,
+    "indices": 2832,
+    "indexOffset": 941500,
+    "index32": false,
+    "Ka": [
+     0.7569,
+     0.7569,
+     0.7569
+    ],
+    "Kd": [
+     0.7569,
+     0.7569,
+     0.7569
+    ],
+    "Ks": [
+     0.0902,
+     0.0902,
+     0.0902
+    ],
+    "Ns": 10.0,
+    "d": 1.0,
+    "map": "bottom.webp"
+   },
+   {
+    "material": "material_lampen01_m_reflect",
+    "vertices": 384,
+    "offset": 947164,
+    "indices": 1320,
+    "indexOffset": 956380,
+    "index32": false,
+    "Ka": [
+     0.8431,
+     0.8431,
+     0.8431
+    ],
+    "Kd": [
+     0.8431,
+     0.8431,
+     0.8431
+    ],
+    "Ks": [
+     0.0902,
+     0.0902,
+     0.0902
+    ],
+    "Ns": 67.0,
+    "d": 1.0,
+    "map": "db9_brakelight.webp"
+   },
+   {
+    "material": "material_lampen_m_reflect",
+    "vertices": 212,
+    "offset": 959020,
+    "indices": 828,
+    "indexOffset": 964108,
+    "index32": false,
+    "Ka": [
+     0.8431,
+     0.8431,
+     0.8431
+    ],
+    "Kd": [
+     0.8431,
+     0.8431,
+     0.8431
+    ],
+    "Ks": [
+     0.0902,
+     0.0902,
+     0.0902
+    ],
+    "Ns": 67.0,
+    "d": 1.0,
+    "map": "lampafram.webp"
+   },
+   {
+    "material": "Material__95nummernsch_m_onetex",
+    "vertices": 82,
+    "offset": 965764,
+    "indices": 240,
+    "indexOffset": 967732,
+    "index32": false,
+    "Ka": [
+     0.7569,
+     0.7569,
+     0.7569
+    ],
+    "Kd": [
+     0.7569,
+     0.7569,
+     0.7569
+    ],
+    "Ks": [
+     0.0902,
+     0.0902,
+     0.0902
+    ],
+    "Ns": 10.0,
+    "d": 1.0,
+    "map": "kennzeichenus.webp"
+   },
+   {
+    "material": "Material_weisses_leder_m_onetex",
+    "vertices": 64,
+    "offset": 968212,
+    "indices": 186,
+    "indexOffset": 969748,
+    "index32": false,
+    "Ka": [
+     0.7569,
+     0.7569,
+     0.7569
+    ],
+    "Kd": [
+     0.7569,
+     0.7569,
+     0.7569
+    ],
+    "Ks": [
+     0.0902,
+     0.0902,
+     0.0902
+    ],
+    "Ns": 10.0,
+    "d": 1.0,
+    "map": "leder_beige.webp"
+   },
+   {
+    "material": "Material_braunes_leder_m_onetex",
+    "vertices": 1220,
+    "offset": 970120,
+    "indices": 3849,
+    "indexOffset": 999400,
+    "index32": false,
+    "Ka": [
+     0.7569,
+     0.7569,
+     0.7569
+    ],
+    "Kd": [
+     0.7569,
+     0.7569,
+     0.7569
+    ],
+    "Ks": [
+     0.0902,
+     0.0902,
+     0.0902
+    ],
+    "Ns": 10.0,
+    "d": 1.0,
+    "map": "leder_rot.webp"
+   },
+   {
+    "material": "Material__95rotes_leder_m_onetex",
+    "vertices": 1071,
+    "offset": 1007100,
+    "indices": 4785,
+    "indexOffset": 1032804,
+    "index32": false,
+    "Ka": [
+     0.7569,
+     0.7569,
+     0.7569
+    ],
+    "Kd": [
+     0.7569,
+     0.7569,
+     0.7569
+    ],
+    "Ks": [
+     0.0902,
+     0.0902,
+     0.0902
+    ],
+    "Ns": 10.0,
+    "d": 1.0,
+    "map": "leder_rotv.webp"
+   },
+   {
+    "material": "Material_dunkles_leder_m_onetex",
+    "vertices": 1465,
+    "offset": 1042376,
+    "indices": 3588,
+    "indexOffset": 1077536,
+    "index32": false,
+    "Ka": [
+     0.7569,
+     0.7569,
+     0.7569
+    ],
+    "Kd": [
+     0.7569,
+     0.7569,
+     0.7569
+    ],
+    "Ks": [
+     0.0902,
+     0.0902,
+     0.0902
+    ],
+    "Ns": 10.0,
+    "d": 1.0,
+    "map": "leather03.webp"
+   },
+   {
+    "material": "mb_glas_m_pbrmetal",
+    "vertices": 124,
+    "offset": 1084712,
+    "indices": 480,
+    "indexOffset": 1087688,
+    "index32": false,
+    "Ka": [
+     0.5098,
+     0.6078,
+     0.6353
+    ],
+    "Kd": [
+     0.5098,
+     0.6078,
+     0.6353
+    ],
+    "Ks": [
+     0.5059,
+     0.5608,
+     0.6157
+    ],
+    "Ns": 67.0,
+    "d": 0.65,
+    "map": "glass_albedo.webp"
+   },
+   {
+    "material": "Material__95salon1_m_onetex",
+    "vertices": 537,
+    "offset": 1088648,
+    "indices": 1302,
+    "indexOffset": 1101536,
+    "index32": false,
+    "Ka": [
+     0.7569,
+     0.7569,
+     0.7569
+    ],
+    "Kd": [
+     0.7569,
+     0.7569,
+     0.7569
+    ],
+    "Ks": [
+     0.0902,
+     0.0902,
+     0.0902
+    ],
+    "Ns": 10.0,
+    "d": 1.0,
+    "map": "salon1.webp"
+   },
+   {
+    "material": "Material__95salon2_m_onetex",
+    "vertices": 6014,
+    "offset": 1104140,
+    "indices": 17037,
+    "indexOffset": 1248476,
+    "index32": false,
+    "Ka": [
+     0.7569,
+     0.7569,
+     0.7569
+    ],
+    "Kd": [
+     0.7569,
+     0.7569,
+     0.7569
+    ],
+    "Ks": [
+     0.0902,
+     0.0902,
+     0.0902
+    ],
+    "Ns": 10.0,
+    "d": 1.0,
+    "map": "salon2.webp"
+   },
+   {
+    "material": "material_lack_m_reflect",
+    "vertices": 2419,
+    "offset": 1282552,
+    "indices": 6258,
+    "indexOffset": 1340608,
+    "index32": false,
+    "Ka": [
+     0.7176,
+     0.7176,
+     0.7176
+    ],
+    "Kd": [
+     0.7176,
+     0.7176,
+     0.7176
+    ],
+    "Ks": [
+     0.0902,
+     0.0902,
+     0.0902
+    ],
+    "Ns": 55.0,
+    "d": 1.0,
+    "map": "rosaschatten.webp"
+   }
+  ]
+ },
+ "lamp": {
+  "file": "lamp.bin",
+  "min": [
+   -2.138825,
+   -2.0,
+   -0.210426
+  ],
+  "max": [
+   0.1,
+   2.0514,
+   0.210425
+  ],
+  "parts": [
+   {
+    "material": "Material.001",
+    "vertices": 1103,
+    "offset": 0,
+    "indices": 3438,
+    "indexOffset": 26472,
+    "index32": false,
+    "Ka": [
+     0.8,
+     0.8,
+     0.8
+    ],
+    "Kd": [
+     0.8,
+     0.8,
+     0.8
+    ],
+    "Ks": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "Ns": 250.0,
+    "d": 1.0,
+    "map": "lamp_d.webp"
+   }
+  ]
+ },
+ "road": {
+  "file": "road.bin",
+  "min": [
+   -4.0,
+   0.0,
+   -12.0
+  ],
+  "max": [
+   4.0,
+   0.0,
+   12.0
+  ],
+  "parts": [
+   {
+    "material": "Material.001",
+    "vertices": 4,
+    "offset": 0,
+    "indices": 6,
+    "indexOffset": 96,
+    "index32": false,
+    "Ka": [
+     1.0,
+     1.0,
+     1.0
+    ],
+    "Kd": [
+     0.8,
+     0.8,
+     0.8
+    ],
+    "Ks": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "Ns": 39.999996,
+    "d": 1.0,
+    "map": "plane_d.webp"
+   }
+  ]
+ },
+ "desert": {
+  "file": "desert.bin",
+  "min": [
+   -4.0,
+   0.0,
+   -4.0
+  ],
+  "max": [
+   4.0,
+   0.0,
+   4.0
+  ],
+  "parts": [
+   {
+    "material": "Material.001",
+    "vertices": 4,
+    "offset": 0,
+    "indices": 6,
+    "indexOffset": 96,
+    "index32": false,
+    "Ka": [
+     1.0,
+     1.0,
+     1.0
+    ],
+    "Kd": [
+     0.8,
+     0.8,
+     0.8
+    ],
+    "Ks": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "Ns": 250.0,
+    "d": 1.0,
+    "map": "desert_d.webp"
+   }
+  ]
+ },
+ "sky": {
+  "file": "sky.bin",
+  "min": [
+   -1.0,
+   -1.0,
+   -1.0
+  ],
+  "max": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "parts": [
+   {
+    "material": "CubemapMat.003",
+    "vertices": 24,
+    "offset": 0,
+    "indices": 36,
+    "indexOffset": 576,
+    "index32": false,
+    "Ka": [
+     1.0,
+     1.0,
+     1.0
+    ],
+    "Kd": [
+     0.8,
+     0.8,
+     0.8
+    ],
+    "Ks": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "Ns": 250.0,
+    "d": 1.0,
+    "map": "cubemap.webp"
+   }
+  ]
+ }
+}
